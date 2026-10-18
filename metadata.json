@@ -1,0 +1,7 @@
+{
+  "name": "LifeLink",
+  "description": "Mobile-friendly South African local services marketplace connecting clients with skilled, affordable local providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
